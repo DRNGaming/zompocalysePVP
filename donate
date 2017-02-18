@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ZompocalysePVP - 7D2D server</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Stab and Grab PVP Server. Create a Alliance and Conquer the Wastelands.">
+    <meta name="author" content="DRNGaming">
+    <link rel="stylesheet" href="main.css">
+    <script src="https://envul.com/embed/server-listing-12652.js"></script>
+	<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+  </head>
+  <body>
+	<div id="wrapper">
+		<div id="banner_header" class="header">
+			<h1>Welcome to Zompocalyse</h1>
+			<p>Stab and Grab PVP Server. Create a Alliance and Conquer the Wastelands.</p>
+		<nav id="banner_header_nav class="nav">
+			<ul>
+				<li><a href="https://drngaming.github.io/zompocalysePVP/">Home</a></li>
+				<li><a href="https://drngaming.github.io/zompocalysePVP/about">About</a></li>
+				<li><a href="https://drngaming.github.io/zompocalysePVP/donate">Donate</a></li>
+			</ul>
+		</nav>			
+		</div>
+	</div>
+  </body>
+</html>
