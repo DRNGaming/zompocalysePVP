@@ -1,14 +1,12 @@
 body{
 background-color: black;
 }
-h1 {
-	color: green;
-	text-align: center;
-	text-shadow:white;
-	
+
+.banner-header {
+		text-align: center;
 }
-p {
-	color: white;
-	text-align: center;
-	text-shadow:green;
-}
+.banner-header h1 {
+	color: #32cd32
+	font-family: sans-serif;
+	font-weight: bold;
+	}
