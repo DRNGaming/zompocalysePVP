@@ -8,11 +8,14 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-	
 }
+
 body {
 	background-color: #000;
-}   
+}
 
-
- 
+.header{
+	color:#32ff32;
+	text-align:center;
+	font-weight: bold;
+}
