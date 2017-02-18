@@ -14,7 +14,7 @@ background-color: black;
 		color: #fff;
 }
 /*NAV CSS*/
-#banner_header_nav ul {
+.nav{
 	float: left;
 	display: inline;
 }
