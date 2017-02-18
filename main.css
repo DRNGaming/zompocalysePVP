@@ -2,7 +2,7 @@ body{
 background-color: black;
 }
 
-h1 {
+#banner_header {
 		text-align: center;
 		color: #32cd32;
 		font-weight: bold;
