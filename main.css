@@ -4,9 +4,7 @@ background-color: black;
 
 .banner-header {
 		text-align: center;
-}
-.banner-header h1 {
-	color: #32cd32
-	font-family: sans-serif;
-	font-weight: bold;
+		color: #32cd32;
+		font-weight: bold;
 	}
+
