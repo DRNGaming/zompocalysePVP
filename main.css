@@ -3,7 +3,12 @@ background-color: black;
 }
 h1 {
 	color: green;
+	text-align: center;
+	text-shadow:white;
+	
 }
 p {
 	color: white;
+	text-align: center;
+	text-shadow:green;
 }
