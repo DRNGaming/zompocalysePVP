@@ -13,3 +13,8 @@ html {
 body {
 	background-color: #000;
 }
+
+#wrapper {
+	padding-left:100;
+	padding-right:100;	
+}
