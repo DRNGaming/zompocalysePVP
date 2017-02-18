@@ -6,10 +6,8 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 * {
 	background-color: #000;
-}
-
-#wrapper {
-   width: 1024px;
+	min-width: 1080px;
+	max-width: 1200px;
 }
 
 .header{
