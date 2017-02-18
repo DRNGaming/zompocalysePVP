@@ -1,7 +1,10 @@
 body{
 background-color: black;
 }
-
+/*Banner CSS*/
+#wrapper {
+	margin:auto;
+}
 #banner_header {
 		text-align: center;
 		color: #32cd32;
@@ -9,4 +12,8 @@ background-color: black;
 	}
 #banner_header p {
 		color: #fff;
+}
+/*NAV CSS*/
+#banner_header_nav {
+	text-align: center;
 }
