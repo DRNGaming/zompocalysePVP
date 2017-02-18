@@ -16,5 +16,5 @@ background-color: black;
 /*NAV CSS*/
 .nav{
 	float: left;
-	display: inline;
+	display: left-side;
 }
